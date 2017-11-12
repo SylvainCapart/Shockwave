@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3fb94a268e38bba4593069582e6abd16
+timeCreated: 1509652244
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Thirsty Script Extrabold Demo
+  fontNames:
+  - Thirsty Script Extrabold Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
